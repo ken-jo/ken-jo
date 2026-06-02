@@ -41,8 +41,6 @@ Vibe-coding maxi, but still into useful tools, clean dashboards, and checks that
 ![Arbitrum](https://img.shields.io/badge/Arbitrum-28A0F0?style=flat-square&logo=arbitrum&logoColor=white)
 ![Custom Chain](https://img.shields.io/badge/Custom_Blockchain-111827?style=flat-square)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
-![Aptos](https://img.shields.io/badge/Aptos-111111?style=flat-square)
-![Klaytn](https://img.shields.io/badge/Klaytn-FF6B00?style=flat-square)
 ![NFT](https://img.shields.io/badge/NFT_Tooling-6D28D9?style=flat-square)
 
 ---
