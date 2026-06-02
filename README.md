@@ -1,8 +1,8 @@
 # Hi, I'm KenJo
 
-I'm a blockchain engineer building practical automation around AI coding agents, developer tools, and cloud-native operations.
+I'm a blockchain engineer building practical automation around AI coding agents, developer tools, AWS infrastructure, Cloud Ops, and Kubernetes operations.
 
-I like systems that make engineering work easier to verify: Kubernetes dashboards, blockchain tooling, multi-agent workflows, release automation, and observability surfaces that turn noisy operations into clear decisions.
+I like systems that make engineering work easier to verify: Kubernetes dashboards, AWS-backed infrastructure, Cloud/Ops workflows, blockchain tooling, multi-agent workflows, release automation, and observability surfaces that turn noisy operations into clear decisions.
 
 ---
 
@@ -12,7 +12,7 @@ I like systems that make engineering work easier to verify: Kubernetes dashboard
 | --- | --- |
 | AI engineering | Codex / Claude workflows, MCP tooling, token-aware agent operations |
 | Blockchain engineering | Web3 automation, wallet/NFT tooling, on-chain integration experiments |
-| Cloud operations | Kubernetes observability, Prometheus/Grafana-style monitoring, deployment safety |
+| Infrastructure, Cloud Ops & Kubernetes | AWS infrastructure, Kubernetes observability, Prometheus/Grafana-style monitoring, deployment safety |
 | Developer tools | TUI dashboards, CLI utilities, automation glue, reproducible verification |
 
 ---
@@ -40,8 +40,9 @@ I like systems that make engineering work easier to verify: Kubernetes dashboard
 ![MCP](https://img.shields.io/badge/MCP-111827?style=flat-square)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-### Cloud, Ops & Data
+### Infrastructure, Cloud Ops & Data
 
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
