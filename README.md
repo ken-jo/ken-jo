@@ -10,16 +10,10 @@ I like systems that make engineering work easier to verify: Kubernetes dashboard
 
 | Area | What I'm working on |
 | --- | --- |
-| AI engineering | Codex / Claude workflows, MCP tooling, token-aware agent operations |
+| AI engineering | Codex / Claude workflows, MCP tooling, multi-agent developer operations |
 | Blockchain engineering | Web3 automation, wallet/NFT tooling, on-chain integration experiments |
 | Infrastructure, Cloud Ops & Kubernetes | AWS infrastructure, Kubernetes observability, Prometheus/Grafana-style monitoring, deployment safety |
 | Developer tools | TUI dashboards, CLI utilities, automation glue, reproducible verification |
-
----
-
-## AI Usage
-
-[![Tokscale Stats](https://tokscale.ai/api/embed/ken-jo/svg?sort=cost&compact=1)](https://tokscale.ai/u/ken-jo)
 
 ---
 
