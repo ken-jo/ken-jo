@@ -1,8 +1,8 @@
 # Hi, I'm KenJo
 
-I'm a blockchain engineer building practical automation around AI coding agents, developer tools, AWS infrastructure, Cloud Ops, and Kubernetes operations.
+Blockchain engineer. Agentic AI builder. Cloud/Ops person across AWS and Kubernetes.
 
-I like systems that make engineering work easier to verify: Kubernetes dashboards, AWS-backed infrastructure, Cloud/Ops workflows, blockchain tooling, multi-agent workflows, release automation, and observability surfaces that turn noisy operations into clear decisions.
+Vibe-coding maxi, but still into useful tools, clean dashboards, and checks that actually prove things.
 
 ---
 
@@ -10,10 +10,10 @@ I like systems that make engineering work easier to verify: Kubernetes dashboard
 
 | Area | What I'm working on |
 | --- | --- |
-| AI engineering | Codex / Claude workflows, MCP tooling, multi-agent developer operations |
-| Blockchain engineering | Web3 automation, wallet/NFT tooling, on-chain integration experiments |
-| Infrastructure, Cloud Ops & Kubernetes | AWS infrastructure, Kubernetes observability, Prometheus/Grafana-style monitoring, deployment safety |
-| Developer tools | TUI dashboards, CLI utilities, automation glue, reproducible verification |
+| AI & agents | Agentic AI, Codex / Claude workflows, MCP tooling |
+| Blockchain | Arbitrum, custom blockchain work, wallet/NFT tooling |
+| Infra & Ops | AWS infrastructure, Kubernetes, Prometheus/Grafana |
+| Developer tools | TUIs, CLIs, automation glue, reproducible checks |
 
 ---
 
@@ -31,6 +31,7 @@ I like systems that make engineering work easier to verify: Kubernetes dashboard
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-111827?style=flat-square)
 ![MCP](https://img.shields.io/badge/MCP-111827?style=flat-square)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
@@ -45,19 +46,12 @@ I like systems that make engineering work easier to verify: Kubernetes dashboard
 
 ### Blockchain
 
+![Arbitrum](https://img.shields.io/badge/Arbitrum-28A0F0?style=flat-square&logo=arbitrum&logoColor=white)
+![Custom Chain](https://img.shields.io/badge/Custom_Blockchain-111827?style=flat-square)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
 ![Aptos](https://img.shields.io/badge/Aptos-111111?style=flat-square)
 ![Klaytn](https://img.shields.io/badge/Klaytn-FF6B00?style=flat-square)
 ![NFT](https://img.shields.io/badge/NFT_Tooling-6D28D9?style=flat-square)
-
----
-
-## Projects I Care About
-
-- [`kutop`](https://github.com/ken-jo/kutop) — a btop-like Kubernetes TUI for pods, nodes, metrics, events, PVC usage, alerts, and custom health panels.
-- [`context-mode-loader-verify`](https://github.com/ken-jo/context-mode-loader-verify) — reproducible verification for plugin loading paths across OpenCode and Kilo.
-- Blockchain experiments around NFT minting, ownership checks, and wallet/network integrations.
-- AI agent orchestration and context-window tooling around Codex, Claude Code, and MCP.
 
 ---
 
@@ -66,7 +60,3 @@ I like systems that make engineering work easier to verify: Kubernetes dashboard
 [![GitHub](https://img.shields.io/badge/GitHub-ken--jo-181717?style=flat-square&logo=github)](https://github.com/ken-jo)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ken_Jo-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kenjokorea/)
 [![Email](https://img.shields.io/badge/Email-jo.dreame%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jo.dreame@gmail.com)
-
----
-
-> Quiet tools, clear evidence, repeatable execution.
