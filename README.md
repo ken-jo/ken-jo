@@ -1,8 +1,6 @@
-# Hi, I'm KenJo
+# Hi, I'm Ken Jo
 
 Blockchain engineer. Agentic AI builder. Cloud/Ops person across AWS and Kubernetes.
-
-Vibe-coding maxi, but still into useful tools, clean dashboards, and checks that actually prove things.
 
 ---
 
@@ -50,3 +48,7 @@ Vibe-coding maxi, but still into useful tools, clean dashboards, and checks that
 [![GitHub](https://img.shields.io/badge/GitHub-ken--jo-181717?style=flat-square&logo=github)](https://github.com/ken-jo)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ken_Jo-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kenjokorea/)
 [![Email](https://img.shields.io/badge/Email-jo.dreame%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jo.dreame@gmail.com)
+
+---
+
+> Vibe-coding maxi, but the dashboards still have to bring receipts.
