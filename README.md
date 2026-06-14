@@ -15,6 +15,16 @@ Blockchain engineer. Agentic AI builder. Cloud/Ops person across AWS and Kuberne
 
 ---
 
+## GitHub Stats 📈
+
+![Profile views](https://komarev.com/ghpvc/?username=ken-jo&style=flat-square&color=0e75b6)
+
+[![Ken's GitHub stats](https://github-readme-stats.vercel.app/api?username=ken-jo&count_private=true&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ken-jo&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
 ## Tech Stack 🧩
 
 ### 🤖 AI & Developer Workflows
